@@ -1,5 +1,5 @@
 \c tweeder_info
 
-INSERT INTO tweeds (test)
+INSERT INTO tweeds (tweed)
 VALUES
-('stupid_tweet')
+('Kyle, Dash and Ed are mad smart son')

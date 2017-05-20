@@ -8,5 +8,5 @@ DROP TABLE IF EXISTS tweeds;
 
 CREATE TABLE tweeds
 (id SERIAL PRIMARY KEY,
-  test VARCHAR(255)
+  tweed VARCHAR(255)
 );
